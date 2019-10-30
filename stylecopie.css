@@ -1,0 +1,90 @@
+.reward {
+	position: absolute;
+    background-color: #262626;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+
+.card .reward span {
+	color: orange;
+}
+
+.dead {
+	position: absolute;
+	font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 70%;
+    margin-left: 12%;
+    margin-top: 40%;
+}
+
+.card-img-top {
+    opacity: 0.3;
+}
+
+.card:hover .card-img-top{
+	opacity: 1;
+}
+
+.card:hover .reward {
+	visibility: hidden;
+}
+
+.card:hover .dead {
+	visibility: hidden;
+}
+
+
+.trois_badges {
+	text-align: center;
+	font-size: 30px;
+}
+
+table {
+	text-align: center;
+}
+
+.footer {
+	background-color: grey;
+	border-radius: 5px;
+}
+
+.footer a {
+	color: white;
+}
+
+.image_reward {
+	border-radius: 5px;
+}
+
+.image_orc1 {
+	border-radius: 5px;
+}
+
+.image_orc2 {
+	border-radius: 5px;
+}
+
+.image_army {
+	border-radius: 5px;
+}
+
+.my_precious {
+	font-size: 30px;
+}
+
+.image_gollum {
+	border-radius: 100%;
+}
+
+.texte_gollum {
+	text-align: right;
+	font-size: 20px;
+	color: grey;
+}
